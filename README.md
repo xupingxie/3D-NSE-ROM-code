@@ -1,9 +1,7 @@
 # 3D-NSE-ROM-code
 
-This repo contains 3D ROM code for Navier-Stokes-equations.  All the detailed algorithms are in the paper
-"approximate deconvolution reduced order modeling".  The main driver script is ADROM.m
-The only thing missing in this repo is the data. Since the multiple data matrix is very huge, it's not easy to moving around. 
-Data is available upon request.  Please let me know if you need.
+This repo contains 3D ROM code for Navier-Stokes-equations.  It contains standard Galerkin projection based ROM and the new AD-ROM. All the detailed algorithms are in the paper "approximate deconvolution reduced order modeling".  The main driver script is ADROM.m 
+The only thing missing in this repo is the offline data matrix (POD matrix and tensors). The data is available upon request.  Please let me know if you need.
 
 
 ## Citation:
