@@ -6,14 +6,13 @@ The only thing missing in this repo is the data. Since the multiple data matrix 
 Data is available upon request.  Please let me know if you need.
 
 
-IF you use the code, please cite the following: 
-
-@article{xie2017approximate,
-  title={Approximate deconvolution reduced order modeling},
-  author={Xie, Xuping and Wells, David and Wang, Zhu and Iliescu, Traian},
-  journal={Computer Methods in Applied Mechanics and Engineering},
-  volume={313},
-  pages={512--534},
-  year={2017},
-  publisher={Elsevier}
-}
+## Citation:
+    @article{xie2017approximate,
+      title={Approximate deconvolution reduced order modeling},
+      author={Xie, Xuping and Wells, David and Wang, Zhu and Iliescu, Traian},
+      journal={Computer Methods in Applied Mechanics and Engineering},
+      volume={313},
+      pages={512--534},
+      year={2017},
+      publisher={Elsevier}
+   }
