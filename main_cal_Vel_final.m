@@ -1,6 +1,3 @@
-% Zhu Wang 07-21-2011
-% Codes for generating new figures for our POD-comparison paper.
-%
 % to calculate < >_x or < >_y, we need finite element interpolation,
 % here, we employ Dr. Borggaard's codes, do 2d-interpolation on each
 % z-plane.
